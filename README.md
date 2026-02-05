@@ -1,3 +1,3 @@
 # first-repository-
 this is my first git respository
-author-ajay parmar
+author-ajay parmar from madhaya pradesh
